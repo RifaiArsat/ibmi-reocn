@@ -1,0 +1,4 @@
+txn_id,amount,date
+ SALE-1 ,12.35,1261117
+sale-2,-4.50,0000000
+bank-only,3.00,1260101

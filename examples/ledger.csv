@@ -1,0 +1,4 @@
+txn_id,amount,date
+sale-1,12.345,1261117
+sale-2,-4.50,0000000
+ledger-only,8.00,1251231
